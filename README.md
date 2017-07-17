@@ -9,7 +9,7 @@ The submission can be made public.
 ## Background/Intro
 
 
-This is the first time we work with a transcription factor binding problem. We are physicist and computer scientists working with machine learning data mining, and various other subjects.
+This is the first time we work with a transcription factor binding problem. We are physicist and computer scientists working with machine learning, data minin and various other subjects. We have tried to create a meaningful table representation of the data, using multiple transciption binding prediction methods, and apply machine learning on the table.
 
 
 ## Methods
